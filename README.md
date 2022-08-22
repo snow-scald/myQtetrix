@@ -7,8 +7,10 @@
 ## 游戏演示
 游戏初始页面：
 ![](/img/run1.png)
+
 游戏运行中：
 ![](/img/run2.png)
+
 暂停功能：
 ![](/img/pause.png)
 
