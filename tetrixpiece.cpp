@@ -2,9 +2,6 @@
 
 #include <QtCore>
 
-
-
-
 void TetrixPiece::setRandomShape()
 {
     setShape(TetrixShape(QRandomGenerator::global()->bounded(7) + 1));
